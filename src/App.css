@@ -1,0 +1,10 @@
+main {
+	width: 100%;
+	max-width: 960px;
+    margin: 0 auto;
+}
+
+.head {
+    margin-top: 0;
+    justify-content: center;
+}

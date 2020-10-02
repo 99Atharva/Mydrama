@@ -1,0 +1,20 @@
+.nxt {
+    margin: 0;
+    top:0;
+    background-color: #b37f7fde;
+    overflow: hidden;
+    color: #333232;
+   
+    
+}
+.hea:after {
+        display: block;
+        width: 127px;
+        background-color: #696454;
+        border-radius: 3px;
+        height: 3px;
+        margin: 0 auto;
+        margin-top: 2px;
+        content: " ";
+        padding-bottom: 2px;
+    }

@@ -1,0 +1,21 @@
+.indicard {
+	width: 25.333%;
+	min-width: 250px;
+	padding: 15px;
+	display: flex;
+	flex-direction: column;
+	cursor: pointer;
+}
+
+.indicard h3 {
+	color: #FFF;
+	font-size: 20px;
+	font-weight: 600;
+	padding: 10px;
+	background: #686b6e;
+	flex: 1 1 100%;
+}
+.indicard img {
+	display: block;
+	width: 100%;
+}

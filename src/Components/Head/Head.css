@@ -1,0 +1,21 @@
+.home { 
+        background-image:linear-gradient(#290b0ba1,#290b0bc9), url(Web.jpg);
+        background-size: cover;
+        height: 100vh;
+        overflow: hidden;
+        background-attachment: fixed;
+        
+        
+}
+.type {
+        
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 15%;
+    font-size: 6rem;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    color: rgba(252, 208, 206, 0.884);
+    font-size: 8vw;
+}

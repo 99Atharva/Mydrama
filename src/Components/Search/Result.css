@@ -1,0 +1,6 @@
+.Rcards {
+	display: flex;
+	flex-wrap: wrap;
+    margin: 0px -15px;
+    justify-content: center;
+}
