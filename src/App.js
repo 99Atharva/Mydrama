@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import Footer from './Components/Footer/Footer';
 import './App.css';
 import 'tachyons';
 import Head from './Components/Head/Head';
@@ -17,7 +16,7 @@ function App() {
     result: [],
     selected: {},
   })
-  const apiurl="http://www.omdbapi.com/?apikey=27bdd901&s="
+  const apiurl="https://www.omdbapi.com/?apikey=27bdd901&s="
  
   const search = (e) => {
     if (e.key === "Enter") {
@@ -51,8 +50,6 @@ function App() {
     
      <Result result={state.result} />
      </main>
-
-     <Footer />
     </div>
   );
 }
