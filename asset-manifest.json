@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mydrama/static/css/main.1d1c7f7f.chunk.css",
-    "main.js": "/Mydrama/static/js/main.ef1488d8.chunk.js",
-    "main.js.map": "/Mydrama/static/js/main.ef1488d8.chunk.js.map",
+    "main.js": "/Mydrama/static/js/main.e0391cea.chunk.js",
+    "main.js.map": "/Mydrama/static/js/main.e0391cea.chunk.js.map",
     "runtime-main.js": "/Mydrama/static/js/runtime-main.b45a5c99.js",
     "runtime-main.js.map": "/Mydrama/static/js/runtime-main.b45a5c99.js.map",
     "static/css/2.3c03f26f.chunk.css": "/Mydrama/static/css/2.3c03f26f.chunk.css",
     "static/js/2.169b6566.chunk.js": "/Mydrama/static/js/2.169b6566.chunk.js",
     "static/js/2.169b6566.chunk.js.map": "/Mydrama/static/js/2.169b6566.chunk.js.map",
     "index.html": "/Mydrama/index.html",
-    "precache-manifest.803e222d21e4f02ec4012cf4f678ac9f.js": "/Mydrama/precache-manifest.803e222d21e4f02ec4012cf4f678ac9f.js",
+    "precache-manifest.8179a0b44aea6bcad7dec798c084d589.js": "/Mydrama/precache-manifest.8179a0b44aea6bcad7dec798c084d589.js",
     "service-worker.js": "/Mydrama/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/Mydrama/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.1d1c7f7f.chunk.css.map": "/Mydrama/static/css/main.1d1c7f7f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.169b6566.chunk.js",
     "static/css/main.1d1c7f7f.chunk.css",
-    "static/js/main.ef1488d8.chunk.js"
+    "static/js/main.e0391cea.chunk.js"
   ]
 }
